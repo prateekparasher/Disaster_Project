@@ -12,3 +12,7 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+![Front dashboard](https://github.com/prateekparasher/Disaster_Project/blob/master/new_project_1.PNG)
+![Categories per game](https://github.com/prateekparasher/Disaster_Project/blob/master/new_project_2.PNG)
